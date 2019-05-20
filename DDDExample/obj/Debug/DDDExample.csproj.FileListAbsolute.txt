@@ -1,7 +1,0 @@
-C:\Users\ppannala\source\repos\DDDExample\DDDExample\bin\Debug\DDDExample.exe.config
-C:\Users\ppannala\source\repos\DDDExample\DDDExample\bin\Debug\DDDExample.exe
-C:\Users\ppannala\source\repos\DDDExample\DDDExample\bin\Debug\DDDExample.pdb
-C:\Users\ppannala\source\repos\DDDExample\DDDExample\obj\Debug\DDDExample.csproj.CoreCompileInputs.cache
-C:\Users\ppannala\source\repos\DDDExample\DDDExample\obj\Debug\DDDExample.exe
-C:\Users\ppannala\source\repos\DDDExample\DDDExample\obj\Debug\DDDExample.pdb
-C:\Users\ppannala\source\repos\DDDExample\DDDExample\obj\Debug\DDDExample.csprojAssemblyReference.cache
